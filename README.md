@@ -6,7 +6,7 @@ accounts
 *veterinarian
 *Receptionist
 *Cashier
-Admin
+# Admin
 1.User Management: The admin can create, modify, and delete accounts for veterinarians, receptionists, and cashiers.
 2.Clinic Settings: The admin can manage clinic-specific settings, such as business hours, contact information, and services offered.
 3.Access Control: The admin can control access levels and permissions for different roles within the system.
@@ -15,7 +15,7 @@ Admin
 6.Appointment Scheduling: Ability to view and manage appointments for all veterinarians and receptionists.
 7.Data Backup and Security: The admin can ensure that data is regularly backed up and implement security measures to protect sensitive information.
 
-Veterinarian:
+# Veterinarian:
 
 1.Patient Management: The veterinarian can access patient records, medical history, and treatment plans.
 2.Medical Charting: Ability to create and update medical charts for each animal under their care.
@@ -23,7 +23,7 @@ Veterinarian:
 4.Treatment Reminders: The system can send reminders for follow-up appointments and treatments.
 5.Collaboration: Veterinarians can communicate with other team members, such as receptionists or fellow veterinarians, regarding patient care.
 
-Receptionist:
+# Receptionist:
 
 1.Appointment Scheduling: Receptionists can book and manage appointments for veterinarians.
 2.Check-In/Check-Out: Ability to check-in patients when they arrive and check-out when they leave the clinic.
@@ -32,7 +32,7 @@ Receptionist:
 5.Billing and Invoicing: Receptionists can handle billing and generate invoices for clients.
 6.Waiting List Management: Ability to manage a waiting list for appointments when the clinic is fully booked.
 
-#Cashier:
+# Cashier:
 
 1.Payment Processing: Cashiers can process payments from clients for services rendered or products purchased.
 2.Invoicing and Receipts: Ability to generate and print invoices and receipts for clients.
